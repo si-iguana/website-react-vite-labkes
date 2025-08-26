@@ -1,5 +1,7 @@
 # 🌐 Labkes Website
 
+http://labkesdakabsukabumi.dpdns.org/
+
 A simple website for **Laboratory Health Services (Labkes)**.  
 Built with **React + TailwindCSS + Framer Motion** for interactive animations.
 
