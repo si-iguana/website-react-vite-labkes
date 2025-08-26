@@ -1,27 +1,35 @@
-# 🌐 Website Labkes
+# 🌐 Labkes Website
 
-Website sederhana untuk layanan **Laboratorium Kesehatan (Labkes)**.  
-Dibangun dengan **React + TailwindCSS + Framer Motion** untuk animasi interaktif.
-
----
-
-## 🚀 Fitur
-- **Hero Section** dengan animasi sambutan
-- **Layanan**: daftar layanan laboratorium (Tes Lab, Pemeriksaan Rutin, Konsultasi Dokter)
-- **Informasi**: jam operasional & lokasi
-- **Kontak**: nomor telepon, email, dan alamat
-- **Footer** dengan hak cipta
-- **Animasi interaktif** menggunakan Framer Motion
-- **Responsif** untuk mobile dan desktop
+A simple website for **Laboratory Health Services (Labkes)**.  
+Built with **React + TailwindCSS + Framer Motion** for interactive animations.
 
 ---
 
-## 🛠️ Teknologi
+## 🚀 Features
+- **Hero Section** with animated welcome message
+- **Services**: list of lab services (Lab Tests, Routine Checkups, Doctor Consultation)
+- **Information**: operating hours & location
+- **Contact**: phone number, email, and address
+- **Footer** with copyright
+- **Interactive animations** powered by Framer Motion
+- **Responsive design** for mobile and desktop
+
+---
+
+## 🛠️ Tech Stack
 - [React](https://reactjs.org/) – UI framework
 - [TailwindCSS](https://tailwindcss.com/) – styling
-- [Framer Motion](https://www.framer.com/motion/) – animasi
-- [Lucide React](https://lucide.dev/) – ikon
+- [Framer Motion](https://www.framer.com/motion/) – animations
+- [Lucide React](https://lucide.dev/) – icons
 
 ---
 
-## 📂 Struktur Project
+📌 **Notes**  
+This website is currently a static landing page.  
+
+It can be expanded with additional features: online booking, lab result API integration, etc.
+
+---
+
+📜 **License**  
+MIT License © 2025 - Labkes
