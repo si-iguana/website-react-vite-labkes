@@ -2,20 +2,6 @@ import React from "react";
 import { useState } from "react";
 import { MotionConfig, motion } from "framer-motion";
 import { Search, Phone, MapPin, ChevronRight, ShieldCheck, Building2, FlaskConical, Droplets, TestTube2, Stethoscope, HeartPulse, Calendar, FileText, Smartphone, ArrowRight, Instagram, Facebook, Youtube, MessageCircle, Mail, Globe2, ArrowUpRight } from "lucide-react";
-import { motion } from "framer-motion";
-
-export default function App() {
-  return (
-    <motion.div
-      className="flex items-center justify-center h-screen bg-gradient-to-r from-indigo-500 to-blue-500"
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      transition={{ duration: 1 }}
-    >
-      <h1 className="text-4xl font-bold text-white">Labkes Template 🚀</h1>
-    </motion.div>
-  )
-}
 
 // --- Utility components ---
 const Container = ({ children }) => (
