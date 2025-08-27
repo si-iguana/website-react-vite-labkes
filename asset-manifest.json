@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/labkesdakabsukabumi.dpdns.org/static/css/main.dac63d3a.css",
+    "main.js": "/labkesdakabsukabumi.dpdns.org/static/js/main.8b843ec0.js",
+    "index.html": "/labkesdakabsukabumi.dpdns.org/index.html",
+    "main.dac63d3a.css.map": "/labkesdakabsukabumi.dpdns.org/static/css/main.dac63d3a.css.map",
+    "main.8b843ec0.js.map": "/labkesdakabsukabumi.dpdns.org/static/js/main.8b843ec0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac63d3a.css",
+    "static/js/main.8b843ec0.js"
+  ]
+}
