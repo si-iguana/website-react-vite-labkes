@@ -23,7 +23,7 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17"
   },
-  "homepage": "https://si-iguana.github.io/labkesdakabsukabumi.dpdns.org/",
+  "homepage": "https://labkesdakabsukabumi.dpdns.org",
   "browserslist": {
     "production": [
       ">0.2%",

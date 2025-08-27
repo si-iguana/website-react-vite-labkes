@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/labkesdakabsukabumi.dpdns.org/static/css/main.dac63d3a.css",
-    "main.js": "/labkesdakabsukabumi.dpdns.org/static/js/main.8b843ec0.js",
-    "index.html": "/labkesdakabsukabumi.dpdns.org/index.html",
-    "main.dac63d3a.css.map": "/labkesdakabsukabumi.dpdns.org/static/css/main.dac63d3a.css.map",
-    "main.8b843ec0.js.map": "/labkesdakabsukabumi.dpdns.org/static/js/main.8b843ec0.js.map"
+    "main.css": "/static/css/main.dac63d3a.css",
+    "main.js": "/static/js/main.8b843ec0.js",
+    "index.html": "/index.html",
+    "main.dac63d3a.css.map": "/static/css/main.dac63d3a.css.map",
+    "main.8b843ec0.js.map": "/static/js/main.8b843ec0.js.map"
   },
   "entrypoints": [
     "static/css/main.dac63d3a.css",
