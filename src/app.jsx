@@ -57,7 +57,7 @@ const Navbar = () => {
               className="h-10 w-10 rounded-full object-cover"
             />
             <div>
-              <div className="font-extrabold leading-tight">BLUD UPTD Klinik Kesehatan Daerah dan Laboratorium Kesehatan Daerah Kabupaten Sukabumi</div>
+              <div className="font-extrabold leading-tight">BLUD UPTD Klinik Kesehatan Daerah dan Laboratorium Kesehatan Daerah</div>
               <div className="text-xs text-gray-500 leading-tight -mt-0.5">Kabupaten Sukabumi Jawa Barat</div>
             </div>
           </a>
